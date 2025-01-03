@@ -1,0 +1,40 @@
+ About the job
+Who we are:
+
+We are the two-man army of recovering consultants fighting the war on admin work in consulting and banking using AI as our not-so-secret weapon
+Founded by alumni from Cornell University, University of Chicago, and a top 5 strategy consulting firm
+Accepted into Antler’s NYC residency program (3% acceptance rate)
+What we do:
+
+We make it easier for investment professionals (e.g., those in private equity, hedge funds, consulting) to find experts with the right backgrounds for primary research
+We are basically salesforce for expert sourcing
+Our beachhead product is a dashboard that reads users' emails, saving them 10+ hours a week.
+Location:
+
+Union Square, NYC
+Why You Should Join
+
+You'll work directly with AI tools and not only see, but guide how they're used at some of the biggest firms in the world
+Be part of our journey as we raise a seed round in the coming months which will mean compensation for yourself
+You’ll have the chance to meet dozens of investors and other successful founders as we work out of an accelerator's office
+Access to founders’ network
+Upon successful completion of the internship, you’ll be considered for our founding engineer team, which would come with a large stake in the company
+Any ideas you have will be heard directly by the CTO; our philosophy is, if you can build it, we'll test it
+All we care about is delivery, so you can work whenever and wherever you want outside of our goal-setting meetings
+What You Will Do
+
+Build a RAG tool for our database of experts
+Find and patch security vulnerabilities
+Help out with tech debt on our beachhead product
+Tell us when we're being dumb and where you think it could be done better
+What You Need
+
+2+ years of coursework in Computer Science, Mathematics, Statistics, or a related field.
+Preferably, knowledge of all or any of the following:
+Languages: Python, Golang, Dart.
+Frameworks: Flutter.
+Other: AWS, Firebase, Supabase.
+A desire to work hard and figure things out
+Need to be located in NYC
+What We Expect From You
+In-person meetings: 2-3 times a week in NYC, the three of us will align on expectations and cover progress.
