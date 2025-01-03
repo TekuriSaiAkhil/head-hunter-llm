@@ -1,0 +1,42 @@
+**Background:**
+
+* Computer Science
+* Mathematics
+* Statistics
+* Engineering
+
+**Industry:**
+
+* Software Development
+* AI/ML
+* Fintech
+* Consulting
+* Investment Banking
+
+**Skills:**
+
+* Python
+* Golang
+* Dart
+* Flutter
+* AWS
+* Firebase
+* Supabase
+* RAG (Retrieval Augmented Generation)
+* Security Vulnerability Detection
+* Tech Debt Management
+* Problem-Solving
+* Communication
+
+**Experience:**
+
+* 2+ years coursework in relevant field
+* Internship experience (preferred)
+* Project experience with listed technologies
+
+**Company Affiliations:**
+
+* University/College (Computer Science, Mathematics, Statistics, or related programs)
+* Open-source projects contributions
+* Hackathons
+* Tech clubs/communities
